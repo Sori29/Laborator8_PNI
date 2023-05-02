@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.899,C:\Users\User\Desktop\Lab5\XE_NEW\Unit1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.516,C:\Users\User\Desktop\Lab5\XE_NEW\Project1.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.500,C:\Users\User\Desktop\Lab5\XE_NEW\Unit1.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.899,C:\Users\User\Desktop\Lab5\XE_NEW\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.501,=C:\Users\User\Desktop\Lab5\XE_NEW\UnitMain.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.710,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.312,=C:\Users\User\Desktop\Lab5\XE_NEW\UnitKernel.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.163,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.402,C:\Users\BiliusL\Desktop\L8\Lab 5 f3\UnitMultiImg.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.990,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.048,=C:\Users\User\Desktop\Lab5\XE_NEW\UnitOpSimpl.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.164,C:\Users\BiliusL\Desktop\L8\Lab 5 f3\UnitOpSimpl.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.525,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.576,C:\Users\BiliusL\Desktop\L8\Lab 5 f3\UnitMain.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.779,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.169,C:\Users\BiliusL\Desktop\Lab5\XE_10.4\Project1.cbproj=C:\Users\BiliusL\Desktop\Lab5\XE_10.4\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.321,C:\Users\BiliusL\Desktop\Lab5\XE_10.4\Project1.cbproj=C:\Users\BiliusL\Desktop\Lab5\XE_10.4\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.856,C:\Users\User\Desktop\Lab5\XE_NEW\Project1PCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.458,=C:\Users\User\Desktop\Lab5\XE_NEW\UnitMultiImg.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.899,C:\Users\User\Desktop\Lab5\XE_NEW\Unit1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="UnitKernel.cpp"/>
+    <File Path="UnitKernel.cpp"/>
+    <File Path="UnitKernel.dfm"/>
+    <File Path="UnitKernel.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
